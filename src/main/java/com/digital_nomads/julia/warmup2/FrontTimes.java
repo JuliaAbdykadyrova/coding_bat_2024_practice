@@ -19,5 +19,4 @@ public class FrontTimes {
         // Возвращаем результат в виде строки
         return nTimes.toString();
     }
-
 }
